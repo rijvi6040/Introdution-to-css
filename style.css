@@ -6,3 +6,7 @@
     background-color: rgb(251, 161, 6);
     color: white;
 }
+.back{
+    background-image: url("image/car\ 2.jpg");
+    background-repeat: no-repeat;
+}
